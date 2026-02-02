@@ -1,4 +1,4 @@
-# About me (Javier Agustin Rodillas) 🧿
+# Javier Agustin Rodillas 🧿
 
 🔭 I’m currently working on [Vanta](https://vanta-q71u.onrender.com/)
 
