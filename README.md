@@ -1,6 +1,13 @@
 # Javier Agustin Rodillas 🧿
 
-### 🔭 I’m currently working on [Vanta](https://vanta-q71u.onrender.com/)
+- 💪 [Vanta](https://vanta-q71u.onrender.com/) - The sport-specific fitness app built by climbers. 
+- 🕺 [ChoreoGrapher](https://choreographer.onrender.com/) - Interactive app for planning and animating group formations collaboratively
+- 🧗 [Dartmouth Climbing Gym](https://dartmouth-climbing-gym.web.app/) - Dartmouth Climbing Gym sign in system, data management and website
+- 🍿 [Issho](https://issho-ani.vercel.app/) - Community-driven anime tracking platform
+- 💾 [Giffit](https://github.com/RodillasJavier/giffit) - Chrome extension designed to allow easier creation & download of GIFs
+- 🗣️ [Presidential Debate Logical Fallacy Detector](https://github.com/RodillasJavier/debate-fallacy-detector) - Logical Fallacy Detection in Presidential Debates
+- ⚽️ [Futbol Tournament Simulator](https://github.com/RodillasJavier/futbol-tournament-simulation) - simulate a futbol tournament from league phase to knockouts and the UCL final
+- 👨‍💻 [Personal Portfolio](https://rodillasjavier.onrender.com/) - My personal website!
 
 
 ### 🌐 Socials:
