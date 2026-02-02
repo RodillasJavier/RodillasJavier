@@ -10,8 +10,6 @@
 - ⚽️ [Futbol Tournament Simulator](https://github.com/RodillasJavier/futbol-tournament-simulation) - simulate a futbol tournament from league phase to knockouts and the UCL final
 - 👨‍💻 [Personal Portfolio](https://rodillasjavier.onrender.com/) - My personal website!
 
-
-### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodillasjavier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodillasjavier) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodillasjavier@gmail.com) 
 
 ## 💻 Tech Stack:
@@ -21,10 +19,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rodillasjavier&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodillasjavier&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=rodillasjavier&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/rodillasjavier) 
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/rodillasjavier) 
