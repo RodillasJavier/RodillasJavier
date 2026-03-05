@@ -1,7 +1,7 @@
 # Javier Agustin Rodillas 🧿
 > Hanover, NH ↔ Phoenix, AZ | Dartmouth College
 
-- 💪 [Vanta](https://vanta-q71u.onrender.com/) - The sport-specific fitness app built by climbers. 
+- 💪 [Vanta](https://trainwithvanta.com/) - The sport-specific fitness app built by climbers. 
 - 🕺 [ChoreoGrapher](https://choreographer.onrender.com/) - Interactive app for planning and animating group formations collaboratively
 - 🧗 [Dartmouth Climbing Gym](https://dartmouth-climbing-gym.web.app/) - Dartmouth Climbing Gym sign in system, data management and website
 - 🍿 [Issho](https://issho-ani.vercel.app/) - Community-driven anime tracking platform
