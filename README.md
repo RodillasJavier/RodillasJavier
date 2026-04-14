@@ -7,6 +7,7 @@
 - 🍿 [Issho](https://issho-ani.vercel.app/) - Community-driven anime tracking platform
 - ⏰ [Super Simple Clock](https://rodillasjavier.github.io/super-simple-clock/) - A super simple clock (lol) that I made for myself to use when working
 - 💾 [Giffit](https://github.com/RodillasJavier/giffit) - Chrome extension designed to allow easier creation & download of GIFs
+- 🧮 [Anime Personality Quiz](https://anime-buzzfeed-quiz.vercel.app/) - A BuzzFeed-style personality quiz that matches the player to an anime character
 - 🗣️ [Presidential Debate Logical Fallacy Detector](https://github.com/RodillasJavier/debate-fallacy-detector) - Logical Fallacy Detection in Presidential Debates
 - ⚽️ [Futbol Tournament Simulator](https://github.com/RodillasJavier/futbol-tournament-simulation) - simulate a futbol tournament from league phase to knockouts and the UCL final
 - 👨‍💻 [Personal Portfolio](https://rodillasjavier.onrender.com/) - My personal website!
