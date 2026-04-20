@@ -7,6 +7,7 @@
 - 🍿 [Issho](https://issho-ani.vercel.app/) - Community-driven anime tracking platform
 - ⏰ [Super Simple Clock](https://rodillasjavier.github.io/super-simple-clock/) - A super simple clock (lol) that I made for myself to use when working
 - 💾 [Giffit](https://github.com/RodillasJavier/giffit) - Chrome extension designed to allow easier creation & download of GIFs
+- 🙇‍♂️ [Blog Platform](https://github.com/RodillasJavier/platform) - Full-stack blog platform Express + MongoDB API and React + Vite frontend
 - 🗒️ [React Notes](https://react-notes-eta.vercel.app/) - A real-time collaborative sticky notes app!
 - 🎭 [Anime Personality Quiz](https://anime-buzzfeed-quiz.vercel.app/) - A BuzzFeed-style personality quiz that matches the player to an anime character
 - 🗣️ [Presidential Debate Logical Fallacy Detector](https://github.com/RodillasJavier/debate-fallacy-detector) - Logical Fallacy Detection in Presidential Debates
