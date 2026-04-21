@@ -15,6 +15,7 @@
 - 👨‍💻 [Personal Portfolio](https://rodillasjavier.onrender.com/) - My personal website!
 - 🧱 [NeetCode Submissions](https://github.com/RodillasJavier/neetcode-submissions-rodillasjavier) - My NeetCode.io problem submissions for DSA+ practice
 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rodillasjavier) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/rodillasjavier) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodillasjavier) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rodillasjavier) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodillasjavier@gmail.com) 
 
 ## 💻 Tech Stack:
@@ -27,5 +28,3 @@
 [![](https://visitcount.itsvg.in/api?id=rodillasjavier&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rodillasjavier) 
