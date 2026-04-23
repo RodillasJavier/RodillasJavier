@@ -2,7 +2,7 @@
 > Hanover, NH ↔ Phoenix, AZ | Dartmouth College
 
 - 💪 [Vanta](https://trainwithvanta.com/) - The sport-specific fitness app built by climbers. 
-- 🕺 [ChoreoGrapher](https://choreographer.onrender.com/) - Interactive app for planning and animating group formations collaboratively
+- 🕺 [ChoreoGrapher](https://choreographer.live/) - Interactive app for planning and animating group formations collaboratively
 - 🧗 [Dartmouth Climbing Gym](https://dartmouth-climbing-gym.web.app/) - Dartmouth Climbing Gym sign in system, data management and website
 - 🍿 [Issho](https://issho-ani.vercel.app/) - Community-driven anime tracking platform
 - ⏰ [Super Simple Clock](https://rodillasjavier.github.io/super-simple-clock/) - A super simple clock (lol) that I made for myself to use when working
