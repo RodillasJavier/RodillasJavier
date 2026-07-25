@@ -15,7 +15,7 @@
 - 🎭 [Anime Personality Quiz](https://anime-buzzfeed-quiz.vercel.app/) - A BuzzFeed-style personality quiz that matches the player to an anime character
 - 🗣️ [Presidential Debate Logical Fallacy Detector](https://github.com/RodillasJavier/debate-fallacy-detector) - Logical Fallacy Detection in Presidential Debates
 - ⚽️ [Futbol Tournament Simulator](https://github.com/RodillasJavier/futbol-tournament-simulation) - simulate a futbol tournament from league phase to knockouts and the UCL final
-- 👨‍💻 [Personal Portfolio](https://rodillasjavier.onrender.com/) - My personal website!
+- 👨‍💻 [Personal Portfolio](https://www.rodillasjavier.com/) - My personal website!
 - 🧱 [NeetCode Submissions](https://github.com/RodillasJavier/neetcode-submissions-rodillasjavier) - My NeetCode.io problem submissions for DSA+ practice
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rodillasjavier) 
